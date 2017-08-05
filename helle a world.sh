@@ -6,5 +6,3 @@ a="hello world"
 sleep 10
 echo "A is:"
 echo $a>>b.txt
-echo $a
-echo $a
