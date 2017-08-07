@@ -10,3 +10,4 @@ echo $a>>b.txt
 echo a
 echo a
 echo "练习练习练习"
+echo "练习练习练习"
